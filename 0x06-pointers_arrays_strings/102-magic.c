@@ -2,12 +2,21 @@
 
 int main(void)
 {
+<<<<<<< HEAD
   int n;
   int a[5];
   int *p;
 
   a[2] = 1024;
   p = &n;
+=======
+int n;
+int a[5];
+int *p;
+
+a[2] = 1024;
+p = &n;
+>>>>>>> 6f94e48a8959881d6f4919bf2e8521570f18fd47
   /*
    * write your line of code here...
    * Remember:
