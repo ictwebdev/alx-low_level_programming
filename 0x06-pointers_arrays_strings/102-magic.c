@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void)
-{D
+{
   int n;
   int a[5];
   int *p;
